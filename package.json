@@ -1,5 +1,5 @@
 {
-  "name": "@jamie/animated-tab-bar",
+  "name": "@animated-tab-bar",
   "version": "1.0.3",
   "description": "A tabbar component for React Native",
   "main": "TabBar.js",
