@@ -1,0 +1,2 @@
+# Dependencies
+- react-native-svg
